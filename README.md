@@ -13,7 +13,7 @@ Corporate Hackers @AFD Group (CHAG)
 
 ### C'est comment ? 
 **C'est collaboratif**
-- 3 demi journée mode #Makestorming
+- 3 demi-journées en mode #Makestorming
 - Homework
 
 ### Source de données explorées ?
