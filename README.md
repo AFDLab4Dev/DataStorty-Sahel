@@ -12,7 +12,7 @@ Corporate Hackers @AFD Group (CHAG)
 20 Fev - 24 Mars // **C'est court !**
 
 ### C'est comment ? 
-**C'est collaboratif **
+**C'est collaboratif**
 - 3 demi journée mode #Makestorming
 - Homework
 
