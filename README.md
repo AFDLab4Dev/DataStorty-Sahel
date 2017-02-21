@@ -26,6 +26,7 @@ map: http://www.openstreetmap.org/
 **Violence:** http://www.acleddata.com/
 **Occupation des sols:** https://modis.gsfc.nasa.gov/data/dataprod/mod12.php
 **Perception:** http://www.afrobarometer.org/fr/pays/
+**Sécurité Alimentaire:** http://api.tiles.mapbox.com/v3/gfdrr-labs.map-44bl16ot,fews-net.sahel-fewsnet-foodsecurity-apriljune-2012/mm/zoompan,tooltips,legend,bwdetect.html#5/20.006412000431233/0.14257812500001207
 
 **Open data nationaux - via ADB**
 Mauritanie: http://mauritania.opendataforafrica.org/data#menu=topic
