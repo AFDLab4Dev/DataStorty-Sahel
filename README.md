@@ -1,4 +1,4 @@
-# #DataStorty Sahel Initiative 2017
+# #DataStory Sahel Initiative 2017
 
 ![](make_storming_sahel.png)
 
